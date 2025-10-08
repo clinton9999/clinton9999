@@ -6,7 +6,7 @@
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
 <li>🔭 American developer in school</li>
-<li>👯 If you want to collaborate on a project, fork the repository.</li>
+<li>👯 If you want to collaborate on a project, fork the repository and Email me.</li>
 <li>👾 Director of the TrashGPT wbesite</li>
 </ul>
 
