@@ -40,7 +40,7 @@ public class me{
 - Vim / NVim
 
 💻 Operating System:
-- Windows 11 (I miss Windows 7 ngl)
+- Windows 11 
 - If I'm running Linux, it is Kali
 ```
 
