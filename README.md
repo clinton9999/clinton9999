@@ -24,7 +24,7 @@ public class me{
 
 #### I Spend My Time On
 ```text
-💬 Programming languages:
+💬 Programming languages I do:
 - C#
 - C++
 - JavaScript
