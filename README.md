@@ -7,7 +7,7 @@
 <ul>
 <li>🔭 American developer in school</li>
 <li>👯 If you want to collaborate on a project, fork the repository and Email me about it with the title as "Collaboration request".</li>
-<li>👾 Director of the TrashGPT wbesite</li>
+<li>👾 Director of The TrashGPT Website</li>
 </ul>
 
 #### A little more about me
@@ -15,7 +15,7 @@
 public class me{
     string username = "Zer0x";
     int age = 13;
-    string grad = "6th";
+    string grade = "6th";
     string country = "America";
     string website = "https://trash-gpt-ed4a8000.base44.app/";
 }
@@ -32,13 +32,15 @@ public class me{
 - Batch script
 - Ducky script
 - HTML / CSS 
-- PHP 
+- PHP
+- JSON Scheme 
 
 🔥 Editors:
 - VS Code / VSCodium / Cursor
 - Rider
 - Visual Studio 2022
 - Vim / NVim
+- NuShell
 
 💻 Operating System:
 - Windows 11 
