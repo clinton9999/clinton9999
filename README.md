@@ -18,6 +18,7 @@ public class me{
     string grade = "6th";
     string country = "America";
     string website = "https://trash-gpt-ed4a8000.base44.app/";
+    string leaning = "I am entirely self taught";
 }
 ```
 
