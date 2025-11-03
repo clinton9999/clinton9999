@@ -41,7 +41,7 @@ public class me{
 - Rider
 - Visual Studio 2022
 - Vim / NVim
-- NuShell
+- NuShell 2025
 
 💻 Operating System:
 - Windows 11 
