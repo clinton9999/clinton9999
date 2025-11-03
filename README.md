@@ -17,7 +17,7 @@ public class me{
     int age = 13;
     string grade = "6th";
     string country = "America";
-    string website = "https://trash-gpt-ed4a8000.base44.app/";
+    string website = "https://trash-gpt.base44.app/";
     string leaning = "I am entirely self taught in coding";
 }
 ```
