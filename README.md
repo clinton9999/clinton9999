@@ -15,7 +15,7 @@
 public class me{
     string username = "Zer0x";
     int age = 13;
-    string grade = "6th";
+    string grade = "7th";
     string country = "America";
     string website = "https://trash-gpt.base44.app/";
     string learning = "I am entirely self taught in coding";
