@@ -52,10 +52,23 @@ public class me{
 #### My GitHub Data :octocat:
 [![Zer0x's GitHub stats](https://github-readme-stats.vercel.app/api?username=clinton9999)](https://github.com/anuraghazra/github-readme-stats)
 [![My GitHub Streak](https://streak-stats.demolab.com?user=clinton9999&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+### 🐍 Snake in the Shadows
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/GrandmaEJ/GrandmaEJ/output/dist/github-snake-dark.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/GrandmaEJ/GrandmaEJ/output/dist/github-snake.svg#gh-light-mode-only" />
+</p>
+
 ### 🤝🏻 &nbsp;My Social networks :
 
 <p align="center">
 <a href="https://www.youtube.com/@ClintonWild_editzfor500">My Social network</a>
+
+### 🌙 Zer0x's Dark-Wisdom
+> _“If the night is long, nap breaks are allowed.”_
+
+
 
 ### 🛠 &nbsp;Tools
 
