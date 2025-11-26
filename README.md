@@ -74,8 +74,10 @@ public class me{
 
 
 #### My GitHub Data :octocat:
-[![Zer0x's GitHub stats](https://github-readme-stats.vercel.app/api?username=clinton9999)](https://github.com/anuraghazra/github-readme-stats)
-[![My GitHub Streak](https://streak-stats.demolab.com?user=clinton9999&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats-clone-sigma.vercel.app/api?username=clinton9999&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-clone-sigma.vercel.app/api/top-langs/?username=clinton9999&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 ---
 
