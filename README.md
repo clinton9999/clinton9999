@@ -66,8 +66,10 @@ public class me{
 - Visual Studio 2022
 - Vim / NVim
 - NuShell 2025
+```
 ---
-💻 Operating Systems:
+
+### 💻Operating Systems I Use:
 [![Arch Linux]
 (https://img.shields.io/badge/Arch%20Linux-%230C8BDC?style=for-the-badge&logo=arch-linux&logoColor=white)](#)
 [![Alpine Linux]
@@ -82,7 +84,7 @@ public class me{
 (https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=fff)](#)
 ![Raspberry Pi]
 (https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
-```
+
 
 ---
 
