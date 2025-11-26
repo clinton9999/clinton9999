@@ -86,6 +86,17 @@ public class me{
 ### 🌙 Zer0x's Dark-Wisdom
 > _“If the night is long, nap breaks are allowed.”_
 
+---
+
+### 🌚 Social Energy  
+🖤 Follow  
+✨ Star repos  
+😴 Sleep  
+💬 Repeat
+
+</div>
+
+
 
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
