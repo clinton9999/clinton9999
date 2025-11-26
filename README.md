@@ -110,17 +110,6 @@ public class me{
 
 ---
 
-### 🌚 Social Energy  
-😩 Wake up
-💻 Code
-🖤 Follow Accounts
-✨ Star Repos  
-😴 Sleep  
-💬 Repeat
-
-
----
-
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
