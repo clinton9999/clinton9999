@@ -111,8 +111,10 @@ public class me{
 ---
 
 ### 🌚 Social Energy  
-🖤 Follow  
-✨ Star repos  
+😩 Wake up
+💻 Code
+🖤 Follow Accounts
+✨ Star Repos  
 😴 Sleep  
 💬 Repeat
 
