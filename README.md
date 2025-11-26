@@ -7,6 +7,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
+---
 
 #### Info You Need To Know About Me
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
@@ -19,6 +20,8 @@
 
 </ul>
 
+---
+
 <!-- GitHub Star link -->
 <p align="center">
   <a href="https://stars.github.com/profiles/denvercoder1/">
@@ -27,6 +30,8 @@
 
  <a href="https://github.com/clinton9999?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
+
+---
 
 #### A little more about me
 ```golang
@@ -40,6 +45,7 @@ public class me{
 }
 ```
 
+---
 
 #### I Spend My Time On
 ```text
@@ -53,14 +59,14 @@ public class me{
 - HTML / CSS 
 - PHP
 - JSON Scheme 
-
+---
 🔥 Editors:
 - VS Code / VSCodium / Cursor
 - Rider
 - Visual Studio 2022
 - Vim / NVim
 - NuShell 2025
-
+---
 💻 Operating System:
 - Windows 11 
 - If I'm running Linux, it is Kali
@@ -71,6 +77,8 @@ public class me{
 [![Zer0x's GitHub stats](https://github-readme-stats.vercel.app/api?username=clinton9999)](https://github.com/anuraghazra/github-readme-stats)
 [![My GitHub Streak](https://streak-stats.demolab.com?user=clinton9999&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
+---
+
 ### 🐍 Snake in the Shadows
 
 <p align="center">
@@ -78,10 +86,14 @@ public class me{
 <img src="https://raw.githubusercontent.com/GrandmaEJ/GrandmaEJ/output/dist/github-snake.svg#gh-light-mode-only" />
 </p>
 
+---
+
 ### 🤝🏻 &nbsp;My Social networks :
 
 <p align="center">
 <a href="https://www.youtube.com/@ClintonWild_editzfor500">My Social network</a>
+
+---
 
 ### 🌙 Zer0x's Dark-Wisdom
 > _“If the night is long, nap breaks are allowed.”_
