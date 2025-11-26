@@ -238,5 +238,5 @@ public class me{
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSeenKid&label=Views&labelColor=%23ff2233&countColor=%2334af7a)
 
-
+[![](https://visitcount.itsvg.in/api?id=Cons0le7&icon=0&color=0)](https://visitcount.itsvg.in)
 
