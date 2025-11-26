@@ -17,7 +17,6 @@
 
 <li>👾 Director of The TrashGPT Website</li>
 
-</li>👾 Director of The Hacker Hub Website</li>
 </ul>
 
 <!-- GitHub Star link -->
