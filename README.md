@@ -72,6 +72,14 @@ public class me{
 - If I'm running Linux, it is Kali
 ```
 
+---
+
+### ⚔️ Welcome to the Night Garden
+
+> _“While mortals sleep… Grandma codes.”_  
+> — also sleeps right after 😌💤
+
+---
 
 #### My GitHub Data :octocat:
 <p align="center">
