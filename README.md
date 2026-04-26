@@ -67,7 +67,7 @@ public class me{
 - Vim / NVim
 - NuShell 2025
 ---
-💻Operating Systems I Use:
+💻 Operating Systems I Use:
 - Windows 11
 - Kali Linux
 ```
