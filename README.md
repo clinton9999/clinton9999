@@ -35,12 +35,12 @@
 
 #### A little more about me
 ```golang
-public class me{
+public class me {
     string username = "Zer0x";
     int age = 13;
     string grade = "7th";
     string country = "America";
-    string website = "https://trash-gpt.base44.app/";
+    string state = "Florida";
     string learning = "I am entirely self taught in coding";
 }
 ```
