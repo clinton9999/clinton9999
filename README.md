@@ -13,7 +13,7 @@
 
 <li>👯 If you want to collaborate on a project, fork the repository and email me about it with the title as "Collaboration request".</li>
 
-<li>👾 Director of The TrashGPT Website</li>
+<li>👾 Director of Way Too Many Website Collabs</li>
 
 </ul>
 
